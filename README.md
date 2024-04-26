@@ -1,5 +1,11 @@
 # APP_Desktop_RACING
 
+Linguagens:
+- Front  - GUI - Custom TKinter
+- Back   - Python
+- Banco  - MS SQL Server
+
+_________________________________________________________________________________________________________
 CAMPEONATO - TUIUTI RACING
 
 Funções:
@@ -8,3 +14,5 @@ Funções:
 - Relatórios de Ranking
 - Relatório de notas
 - ...
+
+
